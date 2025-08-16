@@ -7,3 +7,7 @@ Place sample or synthetic data here. Avoid uploading sensitive data.
 **Report:** `powerbi/RecruitingAnalytics.pbix`
 
 ![Recruiting Analytics Dashboard](assets/report.png)
+
+**Report:** [Download the PBIX](powerbi/RecruitingAnalytics.pbix)
+
+![Recruiting Analytics Dashboard](assets/report.png)
